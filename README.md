@@ -1,5 +1,7 @@
-### Hi there 👋
+Hello, I'm Vincent! A Highly organized and meticulous person with experience in corporate office settings. 
+I would describe myself as independent, self-motivated team player as well as observant with great attention to details.
 
+After graduating from App Academy, I've acquired a diverse set of technical skills over the past year. From developing a strong proficiency in JavaScript and Python to gaining experience with frameworks like Sequelize, React, and Redux, I'm eager to start the next chapter of my career. As a recent graduate, I'm actively seeking junior software development positions where I can apply and further enhance my skills in a professional setting.
 <!--
 **vincentwong0921/vincentwong0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
