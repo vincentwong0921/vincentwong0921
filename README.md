@@ -3,7 +3,7 @@ I would describe myself as independent, self-motivated team player as well as ob
 
 After graduating from App Academy, I've acquired a diverse set of technical skills over the past year. From developing a strong proficiency in JavaScript and Python to gaining experience with frameworks like Sequelize, React, and Redux, I'm eager to start the next chapter of my career. As a recent graduate, I'm actively seeking junior software development positions where I can apply and further enhance my skills in a professional setting.
 
-Feel Free to check the projects I have worked on!
+Feel Free to check on the projects I have worked on the past year!
 
 https://the-phone-hub.onrender.com/
 https://yum-cart.onrender.com/
