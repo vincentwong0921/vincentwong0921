@@ -7,6 +7,10 @@ Feel Free to check on the projects I have worked on the past year!
 
 https://the-phone-hub.onrender.com/
 https://yum-cart.onrender.com/
+
+Also checkout my portfolio!
+
+https://vincentwong0921.github.io/portfolio/
 <!--
 **vincentwong0921/vincentwong0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
